@@ -1,4 +1,0 @@
-#Thu Mar 11 00:01:43 EST 2021
-base.0=/home/iziynaser/Projects/Flutter/tootiya/tootiya/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

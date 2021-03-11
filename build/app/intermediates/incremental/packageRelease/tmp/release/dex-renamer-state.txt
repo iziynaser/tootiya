@@ -1,4 +1,0 @@
-#Wed Mar 10 23:59:56 EST 2021
-base.0=/home/iziynaser/Projects/Flutter/tootiya/tootiya/build/app/intermediates/transforms/r8/release/0/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
